@@ -1,5 +1,5 @@
 # FYP 2022-23: Object Detection with Deep Learning Models
-## By: Noel M
+## By: mathewn24
 
 This repository tracks my Final Year Project that I did with my professor. During this project I worked on running, training, and finetuning different deep learning architectures using Pytorch and an open source Deep Learning library called OpenMMLab (http://github.com/open-mmlab). 
 
